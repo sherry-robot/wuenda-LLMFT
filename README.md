@@ -1,5 +1,4 @@
-# wuenda-LLMFT
-吴恩达Finetuning Large Language Models Instructor: Sharon Zho课程代码，
+# 吴恩达Finetuning Large Language Models Instructor: Sharon Zho课程代码
 
 ##说明
 在课程原有代码上进行了一些修改，来保证代码可以正确运行。
